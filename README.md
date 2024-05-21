@@ -64,9 +64,17 @@ Below are some API Test samples that I made while working on previous projects.
 
 **• CRUD REST API Test:**
 
-1. Read Get all users test:
+1. Read - Get all users test:
 ![Screenshot 2024-05-13 010409](https://github.com/AndreiPVA/API-Tests/assets/166728489/b960f198-f967-4830-8e6a-ad12548a9487)
+
+2. Read - Get single user test:
 ![Screenshot 2024-05-13 010625](https://github.com/AndreiPVA/API-Tests/assets/166728489/ca99f051-67cc-4112-8fd0-0952f3b8b99f)
+
+3. Create - Insert user test:
 ![Screenshot 2024-05-13 010713](https://github.com/AndreiPVA/API-Tests/assets/166728489/054412d9-3d3a-4cde-b082-a22e9bf56299)
+
+4. Update - Update user test:
 ![Screenshot 2024-05-13 010820](https://github.com/AndreiPVA/API-Tests/assets/166728489/5dda1827-cba9-4f65-a9f3-5dd77944457d)
+
+5. Delete - Delete user test:
 ![Screenshot 2024-05-13 010955](https://github.com/AndreiPVA/API-Tests/assets/166728489/065947cd-51c6-41a8-816e-be1baff1052b)
