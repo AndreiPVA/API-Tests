@@ -9,8 +9,10 @@ Below are some API Test samples that I made while working on previous projects.
 Category test
 ![Screenshot 2024-05-13 001336](https://github.com/AndreiPVA/API-Tests/assets/166728489/a5c9598b-6d3f-4b1c-b512-11552cdc3efe)
 
-1 parameter test
+Text Search test
 ![Screenshot 2024-05-13 005121](https://github.com/AndreiPVA/API-Tests/assets/166728489/a64cdd2e-39a2-41a3-88dd-340047478af9)
+
+Random Joke test
 ![Screenshot 2024-05-13 005207](https://github.com/AndreiPVA/API-Tests/assets/166728489/f7d133e0-fa38-4305-917a-e2e073acec51)
 ![Screenshot 2024-05-13 005247](https://github.com/AndreiPVA/API-Tests/assets/166728489/d5199a9b-9942-4b57-8fa7-bd1b7be4b1ec)
 ![Screenshot 2024-05-13 005343](https://github.com/AndreiPVA/API-Tests/assets/166728489/7a9c06be-3c39-4f46-ac01-d6853707528d)
