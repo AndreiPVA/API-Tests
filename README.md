@@ -4,7 +4,7 @@ Below are some API Test samples that I made while working on previous projects.
 
 ----------------
 
-**- Chuck Norris API Test:**
+**• Chuck Norris API Test:**
 
 1. Category test:
 ![Screenshot 2024-05-13 001336](https://github.com/AndreiPVA/API-Tests/assets/166728489/a5c9598b-6d3f-4b1c-b512-11552cdc3efe)
@@ -19,7 +19,7 @@ Below are some API Test samples that I made while working on previous projects.
 ![Screenshot 2024-05-13 005247](https://github.com/AndreiPVA/API-Tests/assets/166728489/d5199a9b-9942-4b57-8fa7-bd1b7be4b1ec)
 
 
-**- OpenWeather 5 Day / 3 Hour Forecast API Test:**
+**• OpenWeather 5 Day / 3 Hour Forecast API Test:**
 
 1. Get weather by city name - required parameters test:
 ![Screenshot 2024-05-13 005343](https://github.com/AndreiPVA/API-Tests/assets/166728489/7a9c06be-3c39-4f46-ac01-d6853707528d)
@@ -37,7 +37,7 @@ Below are some API Test samples that I made while working on previous projects.
 ![Screenshot 2024-05-13 005627](https://github.com/AndreiPVA/API-Tests/assets/166728489/c75a3dd9-a551-47f4-ac29-8aa56d6811a4)
 
 
-**- OpenWeather Current Weather Data API Test:**
+**• OpenWeather Current Weather Data API Test:**
 
 1. Get weather by city name - required parameters test:
 ![Screenshot 2024-05-13 005716](https://github.com/AndreiPVA/API-Tests/assets/166728489/d09d49fe-788e-4446-925e-95a4f6b154f1)
