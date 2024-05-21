@@ -4,7 +4,7 @@ Below are some API Test samples that I made while working on previous projects.
 
 ----------------
 
-**• Chuck Norris API Test:**
+**• Chuck Norris REST API Test:**
 
 1. Category test:
 ![Screenshot 2024-05-13 001336](https://github.com/AndreiPVA/API-Tests/assets/166728489/a5c9598b-6d3f-4b1c-b512-11552cdc3efe)
@@ -19,7 +19,7 @@ Below are some API Test samples that I made while working on previous projects.
 ![Screenshot 2024-05-13 005247](https://github.com/AndreiPVA/API-Tests/assets/166728489/d5199a9b-9942-4b57-8fa7-bd1b7be4b1ec)
 
 
-**• OpenWeather 5 Day / 3 Hour Forecast API Test:**
+**• OpenWeather 5 Day / 3 Hour Forecast REST API Test:**
 
 1. Get weather by city name - required parameters test:
 ![Screenshot 2024-05-13 005343](https://github.com/AndreiPVA/API-Tests/assets/166728489/7a9c06be-3c39-4f46-ac01-d6853707528d)
@@ -37,15 +37,34 @@ Below are some API Test samples that I made while working on previous projects.
 ![Screenshot 2024-05-13 005627](https://github.com/AndreiPVA/API-Tests/assets/166728489/c75a3dd9-a551-47f4-ac29-8aa56d6811a4)
 
 
-**• OpenWeather Current Weather Data API Test:**
+**• OpenWeather Current Weather Data REST API Test:**
 
 1. Get weather by city name - required parameters test:
 ![Screenshot 2024-05-13 005716](https://github.com/AndreiPVA/API-Tests/assets/166728489/d09d49fe-788e-4446-925e-95a4f6b154f1)
+
+2. Get weather by city name - 1 parameter test:
 ![Screenshot 2024-05-13 005758](https://github.com/AndreiPVA/API-Tests/assets/166728489/edae14c2-38f7-49c9-9058-d7e7a5772871)
+
+3. Get weather by city name - 2 parameters test:
 ![Screenshot 2024-05-13 005855](https://github.com/AndreiPVA/API-Tests/assets/166728489/6af727df-95a7-40a5-8f0e-6134d0a51935)
+
+4. Get weather by city name - 3 parameters test:
 ![Screenshot 2024-05-13 005936](https://github.com/AndreiPVA/API-Tests/assets/166728489/b2e85f49-eca9-4161-889a-d97a7684fdd7)
+
+
+**• SpaceX GraphQL API Test:**
+
 ![Screenshot 2024-05-13 010112](https://github.com/AndreiPVA/API-Tests/assets/166728489/3865de3f-2d4b-4a6d-94ef-a162d1f8fdf3)
+
+
+**• Star Wars GraphQL API Test:**
+
 ![Screenshot 2024-05-13 010314](https://github.com/AndreiPVA/API-Tests/assets/166728489/5fedf7c0-69ae-4bb8-9c06-c65d30299478)
+
+
+**• CRUD REST API Test:**
+
+1. Read Get all users test:
 ![Screenshot 2024-05-13 010409](https://github.com/AndreiPVA/API-Tests/assets/166728489/b960f198-f967-4830-8e6a-ad12548a9487)
 ![Screenshot 2024-05-13 010625](https://github.com/AndreiPVA/API-Tests/assets/166728489/ca99f051-67cc-4112-8fd0-0952f3b8b99f)
 ![Screenshot 2024-05-13 010713](https://github.com/AndreiPVA/API-Tests/assets/166728489/054412d9-3d3a-4cde-b082-a22e9bf56299)
